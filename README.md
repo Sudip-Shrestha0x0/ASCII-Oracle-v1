@@ -21,6 +21,7 @@ A full-stack web application featuring:
 **Frontend:** React • TypeScript • Vite • xterm.js • Three.js • Tailwind CSS
 
 **Backend:** Node.js • Express • Sharp • FFmpeg
+
 **APIs:** Google Gemini (optional)
 
 ## Screenshots
