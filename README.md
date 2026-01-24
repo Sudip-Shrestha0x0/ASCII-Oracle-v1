@@ -2,7 +2,7 @@
 
 > Interactive terminal application combining ASCII art, image processing, 3D visualizations, and computational tools.
 
-**[Live Demo](https://inspiring-haupia-ded8c2.netlify.app/)** • Built with React, TypeScript, and Three.js
+**[Live Demo](https://inspiring-haupia-ded8c2.netlify.app/)**
 
 ---
 
