@@ -1,0 +1,11 @@
+[phases.setup]
+nixPkgs = ["nodejs_18", "python311", "ffmpeg"]
+
+[phases.install]
+cmds = ["npm run install:all", "pip install sympy numpy scipy"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm start"
