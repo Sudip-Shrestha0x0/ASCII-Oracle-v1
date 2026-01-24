@@ -43,7 +43,7 @@ _Live image processing and ASCII conversion_
 
 ```bash
 # Clone and install
-git clone https://github.com/Sudip-Shrestha0x0/ASCII-Oracle-Version-1.git
+git clone https://github.com/Sudip-Shrestha0x0/ASCII-Oracle-v1.git
 cd ASCII-Oracle-Version-1
 
 # Install node modules
