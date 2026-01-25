@@ -2,7 +2,7 @@
 
 > Interactive terminal application combining ASCII art, image processing, 3D visualizations, and computational tools.
 
-**[Live Demo](https://inspiring-haupia-ded8c2.netlify.app/)** • Built with React, TypeScript, and Three.js
+**[Live Demo](https://inspiring-haupia-ded8c2.netlify.app/)**
 
 ---
 
@@ -19,7 +19,9 @@ A full-stack web application featuring:
 ## Tech Stack
 
 **Frontend:** React • TypeScript • Vite • xterm.js • Three.js • Tailwind CSS
+
 **Backend:** Node.js • Express • Sharp • FFmpeg
+
 **APIs:** Google Gemini (optional)
 
 ## Screenshots
@@ -41,7 +43,7 @@ _Live image processing and ASCII conversion_
 
 ```bash
 # Clone and install
-git clone https://github.com/Sudip-Shrestha0x0/ASCII-Oracle-Version-1.git
+git clone https://github.com/Sudip-Shrestha0x0/ASCII-Oracle-v1.git
 cd ASCII-Oracle-Version-1
 
 # Install node modules
